@@ -4,4 +4,4 @@ metadata:
   name: democonfig
   namespace: razee
 data:
-  opt1: "abc"
+  opt1: "xyz"
