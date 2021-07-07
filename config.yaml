@@ -4,4 +4,4 @@ metadata:
   name: configmap
   namespace: razee
 data:
-  var: "hema"
+  var: "option1"
