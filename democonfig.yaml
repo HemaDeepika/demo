@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: democonfig
+  namespace: razee
+data:
+  opt1: "abc"
